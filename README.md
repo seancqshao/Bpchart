@@ -8,6 +8,6 @@
 * list item 2
 * list item 3
 
-
+![](Bpchart.pdf)
 
 ![](photo-1523712999610-f77fbcfc3843.jpg)
