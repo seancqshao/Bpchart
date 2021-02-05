@@ -1,8 +1,8 @@
 
 # This is BPchart principles!
 ## Also called statistical thinking
-distiguishing common causes vs special causes
-separate signals vs noise
+* distiguishing common causes vs special causes
+* separate signals vs noise
 
 * 
 * list item 2
